@@ -1,5 +1,4 @@
 # jebwebb.github.io
-<!DOCTYPE html>
 <html>
 <body>
 <h1>You Are Not Alone: The Prospect Is Imaginary</h1>
