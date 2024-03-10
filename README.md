@@ -1,5 +1,5 @@
 # jebwebb.github.io
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
     <title>My Webpage</title>
