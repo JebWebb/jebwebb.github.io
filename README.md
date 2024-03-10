@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>You Are Not Alone: The Prospect Is Imaginary</h1>
-     <img src="assets/eyes_of_Kali.jpg" alt="Eyes of Kali" width="500" height="600">
+     <img src="assets/eyes_of_Kali.jpg" alt="Eyes of Kali" width="222" height="333">
 <h2>At the heart of all things, there is a mystery which makes them so.</h2>
 
 <p>You are this ineffable presence, yet you imagine yourself something else. The reason for this is simple: only through separation can there be things to do. This vast cosmos is art for its own sake.</p>
