@@ -6,7 +6,7 @@
     <style>
       body {
     background-color: rgba(28, 135, 201, 0.5);
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Hubot Sans';
 }
     </style>
 </head>
