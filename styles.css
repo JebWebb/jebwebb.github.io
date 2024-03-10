@@ -1,0 +1,21 @@
+/* Use the Brush Script MT cursive font */
+.mtk3,
+.mtk13,
+.mtk16 {
+    margin-left: 1px;
+    font-family: "Brush Script MT";
+    font-size: 1.6em;
+}
+
+.mtk4 {
+    font-family: "Brush Script MT";
+    font-size: 1.4em;
+}
+
+/* For tab titles */
+.monaco-icon-label-description-container .label-name {
+    font-family: "Brush Script MT";
+    font-size: 1.3em;
+}
+
+/* Other relevant styles as needed */
