@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>You Are ot Alone: The Prospect Is Imaginary</h1>
+<h1>You Are Not Alone: The Prospect Is Imaginary</h1>
 <h2>At the heart of all things, there is a mystery which makes them so.</h2>
 
 <p>You are this ineffable presence, yet you imagine yourself something else. The reason for this is simple: only through separation can there be things to do. This vast cosmos is art for its own sake.</p>
